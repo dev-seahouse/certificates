@@ -7,4 +7,6 @@
 2. Learn and understand nodejs   - 2_udemy-learn-and-understand-nodejs </br>
 (https://www.udemy.com/understand-nodejs/learn/v4/content)
 
+3. Diploma in Web Development - 3_shawacademy-diploma-in-web-development <br>
+
 ## School
